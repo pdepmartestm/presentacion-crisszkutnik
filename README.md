@@ -8,3 +8,6 @@
   algun dia quieren uno, estan avisados. Sobre mi, me interesa cualquier cosa que tenga que ver con la tecnologia en  
   general, desde programar o andar personalizando Linux hasta que se me corrompa hasta jugar juegos, que es una de mis  
   actividades principales en mi tiempo libre, aunque tambien juego al rugby.
+
+  Tengo un proyecto que hice en mi tiempo libre subido a una repo de GitHub, y pienso ir agregando mas conforme pase el tiempo.  
+  Si estan aburridos y quieren echarle un ojo, son bienvenidos. Capaz hasta encuentran algun bug y me ayudan a resolverlo.
