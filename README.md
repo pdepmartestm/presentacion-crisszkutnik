@@ -1,6 +1,8 @@
-![](/foto.jpg)
+<img src='foto.jpg' width='100px' height='100px' />
 
 ## Cristobal Szkutnik
+
+#Legajo: 171.603-7
 
   Hola! Como supongo ya se habran dado cuenta ese es mi repositorio asi que aca va una pequeña presentacion mia.  
   Tengo 19 años y entre el año pasado a la facultad. Antes que anda, y ante la pregunta del profesor, si tengo mascotas.  
