@@ -1,4 +1,4 @@
-!(foto.jpg)
+![](/foto.jpg)
 
 ## Cristobal Szkutnik
 
