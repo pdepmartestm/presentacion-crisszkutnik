@@ -2,7 +2,7 @@
 
 ## Cristobal Szkutnik
 
-####Legajo: 171.603-7
+  Legajo: 171.603-7
 
   Hola! Como supongo ya se habran dado cuenta ese es mi repositorio asi que aca va una pequeña presentacion mia.  
   Tengo 19 años y entre el año pasado a la facultad. Antes que anda, y ante la pregunta del profesor, si tengo mascotas.  
@@ -13,3 +13,5 @@
 
   Tengo un proyecto que hice en mi tiempo libre subido a una repo de GitHub, y pienso ir agregando mas conforme pase el tiempo.  
   Si estan aburridos y quieren echarle un ojo, son bienvenidos. Capaz hasta encuentran algun bug y me ayudan a resolverlo.
+  
+  Si, me costo hacer que se vea bien. Me llevo 6 commits.
